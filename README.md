@@ -1,4 +1,4 @@
-# Artemis_Financial_Security_Report
+# Artemis_Financial_Security
 
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
